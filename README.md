@@ -1,50 +1,50 @@
 # Amazon-dataset-samples
 
-<h2>A sample dataset of 1001 Amazon products</h2>
+<h2>1001개 Amazon 제품의 샘플 データセット</h2>
 
 ![Amazon dataset header](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets.PNG)
 
-A Amazon dataset sample of over 1000 products. Dataset was extracted using the <b>Bright Data API</b>.
+1000개 이상의 제품으로 구성된 Amazon データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
-<h2>Data points included in this free dataset:</h2>
+<h2>이 무료 データセット에 포함된 데이터 포인트:</h2>
 
-* ```title```: Product title
-* ```brand```: Product brand
-* ```description```: A brief description of the product
-* ```currency```: Currency of the product
-* ```availability```: Product availability
-* ```reviews_count```: Number of reviews
-* ```categories```: Product categories
-* ```asin```: Unique identifier for each product
-* ```buybox_seller```: Seller in the buy box
-* ```root_bs_rank```: Best sellers rank in the general category
-* ```images_count```: Number of images
-* ```url```: URL that links directly to the product
-* ```video_count```: Number of videos
-* ```image_url```: URL that links directly to the product image
-* ```rating```: Product rating
-* ```date_first_available```: Date when the product first became available
-* ```manufacturer```: Manufacturer of the product
-* ```plus_content```: Indicates the presence of additional content
-* ```final_price```: Final price of the product
-* ```buybox_prices```: Product price details
+* ```title```: 제품 제목
+* ```brand```: 제품 브랜드
+* ```description```: 제품의 간단한 설명
+* ```currency```: 제품 통화
+* ```availability```: 제품 재고 상태
+* ```reviews_count```: 리뷰 수
+* ```categories```: 제품 카테고리
+* ```asin```: 각 제품의 고유 식별자
+* ```buybox_seller```: 바이박스의 판매자
+* ```root_bs_rank```: 일반 카테고리에서의 베스트셀러 순위
+* ```images_count```: 이미지 수
+* ```url```: 제품으로 직접 연결되는 URL
+* ```video_count```: 동영상 수
+* ```image_url```: 제품 이미지로 직접 연결되는 URL
+* ```rating```: 제품 평점
+* ```date_first_available```: 제품이 처음 판매 가능해진 날짜
+* ```manufacturer```: 제품 제조사
+* ```plus_content```: 추가 콘텐츠 존재 여부를 나타냅니다
+* ```final_price```: 제품 최종 가격
+* ```buybox_prices```: 제품 가격 세부 정보
 
-And a lot more.
+그 외에도 매우 많습니다.
 
-This is a sample subset which is derived from the "Amazon Products (public data)"
-dataset which includes more than <b>269,400,000 products</b>.
+이는 "Amazon Products (public data)"
+データセット에서 파생된 샘플 하위 집합이며, 해당 データセット에는 <b>269,400,000개 이상의 제품</b>이 포함되어 있습니다.
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+사용 가능한 データセット 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, 또는 Parquet. 선택적으로 파일은 .gz로 압축할 수 있습니다</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセット 전달 유형 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+업데이트 주기: <b>Once, Daily, Weekly, Monthly, Quarterly, 또는 Custom basis</b>.
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+추출된 데이터 포인트에 추가로 사용할 수 있는 데이터 강화: <b>요청 기반입니다.</b>
 
-<b>[Get the full Amazon products dataset](https://brightdata.com/products/datasets/amazon)</b>.
+<b>[전체 Amazon 제품 データセット 받기](https://brightdata.co.kr/products/datasets/amazon)</b>.
 
-<h2>Additional Amazon datasets available:</h2>
+<h2>추가로 제공되는 Amazon データセット:</h2>
 
 * Amazon.es - products
 * Amazon.de - products
@@ -60,20 +60,20 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 ![Amazon dataset visual](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets-image.PNG)
 
-<h2>What are the Amazon datasets use cases?</h2>
+<h2>Amazon データセット의 활용 사례는 무엇입니까?</h2>
 
-<h3>1. Optimize Your Inventory & Pricing Strategy</h3>
+<h3>1. 재고 및 가격 책정 전략 최적화</h3>
 
-Discover top-selling products that customers are searching for and buying. Enhance your entire inventory, pricing, supply chain, and marketing approach for maximum efficiency.
+고객이 검색하고 구매하는 인기 판매 제품을 파악합니다. 최대 효율을 위해 전체 재고, 가격, 공급망 및 마케팅 접근 방식을 개선합니다.
 
-<h3>2. Gain a Competitive Edge</h3>
+<h3>2. 경쟁 우위 확보</h3>
 
-Amazon's top sellers have a winning formula. Study their products, reviews, and promotions to inspire new business ideas or invite them to join your marketplace.
+Amazon의 베스트셀러에는 성공 공식이 있습니다. 해당 제품, 리뷰 및 프로모션을 분석하여 새로운 비즈니스 아이디어를 얻거나, 그들을 귀사의 마켓플레이스에 참여하도록 초대할 수 있습니다.
 
-<h3>3. Understand Consumer Sentiment & Brand Trends</h3>
+<h3>3. 소비자 정서 및 브랜드 트렌드 이해</h3>
 
-Monitor trending categories and brands in different countries to detect changes in consumer preferences and product popularity.
+여러 국가에서 트렌드 카테고리와 브랜드를 모니터링하여 소비자 선호와 제품 인기도의 변화를 감지합니다.
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>학술 연구자 및 NGO를 위한 Webスクレイピング 도구 및 データセット 무료 접근</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiative는 다양한 환경 및 사회적 대의를 촉진하는 주요 학술 기관 및 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b>와 <b>[바로 사용 가능한 データセット](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
