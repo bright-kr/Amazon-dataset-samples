@@ -1,4 +1,4 @@
-# Amazon-dataset-samples
+# Amazon 데이터셋 샘플
 
 <h2>1001개 Amazon 제품의 샘플 データセット</h2>
 
