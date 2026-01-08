@@ -2,7 +2,7 @@
 
 <h2>1001개 Amazon 제품의 샘플 データセット</h2>
 
-![Amazon dataset header](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets.PNG)
+![Amazon dataset header](https://github.com/bright-kr/Amazon-dataset-samples/blob/main/amazon-datasets.PNG)
 
 1000개 이상의 제품으로 구성된 Amazon データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
@@ -58,7 +58,7 @@
 * Amazon sellers info
 * Amazon products global dataset
 
-![Amazon dataset visual](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets-image.PNG)
+![Amazon dataset visual](https://github.com/bright-kr/Amazon-dataset-samples/blob/main/amazon-datasets-image.PNG)
 
 <h2>Amazon データセット의 활용 사례는 무엇입니까?</h2>
 
